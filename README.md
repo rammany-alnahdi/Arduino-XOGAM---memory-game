@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="hardware-schematic.png" width="48%" />
+  <img src="hardware-schematic1.png" width="48%" />
   <img src="hardware-schematic2.png" width="48%" />
   <img src="hardware-schematic3.png" width="48%" />
-  <img src="hardware-schematic4.png" width="48%" />
 </p>
 
 An embedded, multi-game hardware console engineered using C++ and an Arduino microcontroller. This project features a custom Hardware Abstraction Layer (HAL) designed to manage a 4-bit multiplexed input/output system, interfacing directly with external flip-flops and a 5-to-32 decoder to control a dynamic LED display grid.
