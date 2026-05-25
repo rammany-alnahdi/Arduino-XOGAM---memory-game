@@ -1,5 +1,12 @@
 # Embedded Arcade System | C++ & Bare-Metal Hardware Architecture
 
+<p align="center">
+  <img src="schematic-1.png" width="48%" />
+  <img src="schematic-2.png" width="48%" />
+  <img src="schematic-3.png" width="48%" />
+  <img src="schematic-4.png" width="48%" />
+</p>
+
 An embedded, multi-game hardware console engineered using C++ and an Arduino microcontroller. This project features a custom Hardware Abstraction Layer (HAL) designed to manage a 4-bit multiplexed input/output system, interfacing directly with external flip-flops and a 5-to-32 decoder to control a dynamic LED display grid.
 
 The system runs two distinct logic loops: a dynamic Memory Sequence game featuring binary score encoding, and a Tic-Tac-Toe engine powered by a custom heuristic AI decision tree.
