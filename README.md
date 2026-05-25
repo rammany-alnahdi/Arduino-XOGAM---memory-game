@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="hardware-schematic.png" width="48%" />
-  <img src="hardware-schematic1.png" width="48%" />
   <img src="hardware-schematic2.png" width="48%" />
+  <img src="hardware-schematic1.png" width="48%" />
   <img src="hardware-schematic3.png" width="48%" />
 </p>
 
